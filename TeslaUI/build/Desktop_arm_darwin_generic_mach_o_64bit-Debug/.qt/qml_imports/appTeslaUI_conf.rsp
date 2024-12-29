@@ -1,0 +1,14 @@
+-rootPath
+/Users/user1/Documents/GitHub/teslaui/TeslaUI
+-cmake-output
+-output-file
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/qml_imports/appTeslaUI_conf.cmake
+-importPath
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/TeslaUI
+-importPath
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug
+-importPath
+/Volumes/Transcend/qt/6.8.1/macos/qml
+-qrcFiles
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/qmake_TeslaUI.qrc
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/appTeslaUI_raw_qml_0.qrc

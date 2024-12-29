@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/TeslaUI/">
+    <file alias="Main.qml">/Users/user1/Documents/GitHub/teslaui/TeslaUI/Main.qml</file>
+    <file alias="BottomBar/BottomBar.qml">/Users/user1/Documents/GitHub/teslaui/TeslaUI/BottomBar/BottomBar.qml</file>
+    <file alias="RightScreen/RightScreen.qml">/Users/user1/Documents/GitHub/teslaui/TeslaUI/RightScreen/RightScreen.qml</file>
+    <file alias="LeftScreen/LeftScreen.qml">/Users/user1/Documents/GitHub/teslaui/TeslaUI/LeftScreen/LeftScreen.qml</file>
+    <file alias="resources.qrc">/Users/user1/Documents/GitHub/teslaui/TeslaUI/resources.qrc</file>
+  </qresource>
+</RCC>
+

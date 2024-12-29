@@ -1,0 +1,10 @@
+-I
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug
+-I
+/Volumes/Transcend/qt/6.8.1/macos/qml
+--resource
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/qmake_TeslaUI.qrc
+--resource
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/appTeslaUI_raw_qml_0.qrc
+--module
+TeslaUI

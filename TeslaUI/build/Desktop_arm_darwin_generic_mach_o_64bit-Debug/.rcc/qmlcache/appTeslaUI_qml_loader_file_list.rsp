@@ -1,0 +1,8 @@
+--resource
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/qmake_TeslaUI.qrc
+--resource
+/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/.qt/rcc/appTeslaUI_raw_qml_0.qrc
+/qt/qml/TeslaUI/Main.qml
+/qt/qml/TeslaUI/BottomBar/BottomBar.qml
+/qt/qml/TeslaUI/RightScreen/RightScreen.qml
+/qt/qml/TeslaUI/LeftScreen/LeftScreen.qml

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appTeslaUI_FILE /Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/appTeslaUI.app/Contents/MacOS/appTeslaUI)
+set(__QT_DEPLOY_TARGET_appTeslaUI_TYPE EXECUTABLE)

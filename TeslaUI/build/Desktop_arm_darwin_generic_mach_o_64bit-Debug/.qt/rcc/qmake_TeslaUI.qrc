@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/TeslaUI">
+    <file alias="qmldir">/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/TeslaUI/qmldir</file>
+  </qresource>
+</RCC>
+

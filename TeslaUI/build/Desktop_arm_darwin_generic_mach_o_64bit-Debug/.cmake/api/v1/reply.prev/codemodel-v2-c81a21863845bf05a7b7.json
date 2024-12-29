@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4781d1144e20aa943d2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TeslaUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-e903b9420e3f1a04371e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-004e43399412962343f0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-be57d05319219f138907.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9eb0738d3ec8fffba532.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-db09125751159cc92ff1.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI-Debug-b563dece9711229f29ac.json",
+					"name" : "appTeslaUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_autogen-Debug-7b55ce96d4f076206270.json",
+					"name" : "appTeslaUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_qmlimportscan-Debug-bab9b28dd8eda5ab79db.json",
+					"name" : "appTeslaUI_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_qmllint-Debug-26f8d8316e9b993739b6.json",
+					"name" : "appTeslaUI_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_qmllint_json-Debug-3f9062175a6faf396f2e.json",
+					"name" : "appTeslaUI_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_qmllint_module-Debug-d328522380380cd01162.json",
+					"name" : "appTeslaUI_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_qmltyperegistration-Debug-e294067bf6a077b2b796.json",
+					"name" : "appTeslaUI_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appTeslaUI_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appTeslaUI_tooling-Debug-ed3bc770f734d020b33d.json",
+					"name" : "appTeslaUI_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appTeslaUI_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appTeslaUI_aotstats_target-Debug-e956fbaef20f65c694e7.json",
+					"name" : "module_appTeslaUI_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/user1/Documents/GitHub/teslaui/TeslaUI/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/user1/Documents/GitHub/teslaui/TeslaUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
